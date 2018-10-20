@@ -30,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="453" column="32" lean-forward="false" selection-start-line="453" selection-start-column="32" selection-end-line="453" selection-end-column="32" />
+            <state relative-caret-position="230">
+              <caret line="436" column="30" lean-forward="true" selection-start-line="436" selection-start-column="30" selection-end-line="436" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -45,23 +45,23 @@
         </entry>
       </file>
       <file leaf-file-name="Chart.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/chart.js/dist/Chart.js">
+        <entry file="file://$PROJECT_DIR$/node_modules/chart_js/dist/Chart.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="8190" column="32" lean-forward="false" selection-start-line="8190" selection-start-column="32" selection-end-line="8190" selection-end-column="32" />
               <folding>
-                <marker date="1539806652981" expanded="true" signature="61488:61505" ph="..." />
-                <marker date="1539806652981" expanded="true" signature="84116:84133" ph="..." />
-                <marker date="1539806652981" expanded="true" signature="298797:298912" ph="..." />
-                <marker date="1539806652981" expanded="true" signature="299031:299121" ph="..." />
-                <marker date="1539806652981" expanded="true" signature="318669:318686" ph="..." />
+                <marker date="1539999988386" expanded="true" signature="61488:61505" ph="..." />
+                <marker date="1539999988386" expanded="true" signature="84116:84133" ph="..." />
+                <marker date="1539999988386" expanded="true" signature="298797:298912" ph="..." />
+                <marker date="1539999988386" expanded="true" signature="299031:299121" ph="..." />
+                <marker date="1539999988386" expanded="true" signature="318669:318686" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Chart.bundle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/chart.js/dist/Chart.bundle.js">
+        <entry file="file://$PROJECT_DIR$/node_modules/chart_js/dist/Chart.bundle.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -71,7 +71,7 @@
         </entry>
       </file>
       <file leaf-file-name="book.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/chart.js/book.json">
+        <entry file="file://$PROJECT_DIR$/node_modules/chart_js/book.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
@@ -254,6 +254,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chart_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="bookjson" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -386,23 +404,25 @@
       <updated>1539800823379</updated>
       <workItem from="1539800824604" duration="5785000" />
       <workItem from="1539829165771" duration="3124000" />
-      <workItem from="1539897524585" duration="8682000" />
+      <workItem from="1539897524585" duration="8938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17591000" />
+    <option name="totallyTimeSpent" value="17847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -410,7 +430,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -433,21 +452,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/dist/Chart.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/chart_js/dist/Chart.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122850">
           <caret line="8190" column="32" lean-forward="false" selection-start-line="8190" selection-start-column="32" selection-end-line="8190" selection-end-column="32" />
           <folding>
-            <marker date="1539806652981" expanded="true" signature="61488:61505" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="84116:84133" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="298797:298912" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="299031:299121" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="318669:318686" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="61488:61505" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="84116:84133" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="298797:298912" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="299031:299121" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="318669:318686" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/dist/Chart.bundle.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/chart_js/dist/Chart.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -455,7 +474,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/book.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/chart_js/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
@@ -496,21 +515,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/dist/Chart.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/chart_js/dist/Chart.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122850">
           <caret line="8190" column="32" lean-forward="false" selection-start-line="8190" selection-start-column="32" selection-end-line="8190" selection-end-column="32" />
           <folding>
-            <marker date="1539806652981" expanded="true" signature="61488:61505" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="84116:84133" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="298797:298912" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="299031:299121" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="318669:318686" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="61488:61505" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="84116:84133" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="298797:298912" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="299031:299121" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="318669:318686" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/dist/Chart.bundle.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/chart_js/dist/Chart.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -518,7 +537,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/book.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/chart_js/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
@@ -551,7 +570,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/book.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/chart_js/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
@@ -592,7 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/dist/Chart.bundle.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/chart_js/dist/Chart.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -600,16 +619,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chart.js/dist/Chart.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/chart_js/dist/Chart.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="8190" column="32" lean-forward="false" selection-start-line="8190" selection-start-column="32" selection-end-line="8190" selection-end-column="32" />
           <folding>
-            <marker date="1539806652981" expanded="true" signature="61488:61505" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="84116:84133" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="298797:298912" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="299031:299121" ph="..." />
-            <marker date="1539806652981" expanded="true" signature="318669:318686" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="61488:61505" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="84116:84133" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="298797:298912" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="299031:299121" ph="..." />
+            <marker date="1539999988386" expanded="true" signature="318669:318686" ph="..." />
           </folding>
         </state>
       </provider>
@@ -637,8 +656,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="453" column="32" lean-forward="false" selection-start-line="453" selection-start-column="32" selection-end-line="453" selection-end-column="32" />
+        <state relative-caret-position="230">
+          <caret line="436" column="30" lean-forward="true" selection-start-line="436" selection-start-column="30" selection-end-line="436" selection-end-column="30" />
           <folding />
         </state>
       </provider>
